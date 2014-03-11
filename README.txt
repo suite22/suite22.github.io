@@ -1,23 +1,32 @@
-Strongly Typed 1.1 by HTML5 UP
+Telephasic 1.1 by HTML5 UP
 html5up.net | @n33co
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-This is Strongly Typed, a new site template with a minimal, semi-retro
-look (inspired by old instruction manuals) and, as you might guess from its
-name, a strong emphasis on type. It's fully responsive, built on HTML5/CSS3,
-and includes styling for all basic page elements. Demo images* are courtesy of 
-regularjane, an incredibly talented photographer friend of mine. Be sure to
-check out more of her work over at deviantART:
+This is Telephasic, a brand new site template for HTML5 UP. It features a sharp, modern
+design inspired by omfg everything, and makes good use of SVGs to ensure stuff looks
+nice and crispy on retina displays.
 
-http://regularjane.deviantart.com/
+A quick note before you jump in: this template is built VERY different to my other stuff
+at H5U. Specifically, the breakpoints are entirely different: rather than just three
+device-oriented breakpoints (desktop, tablet, mobile), Telephasic uses six content-oriented
+ones. Starting with "n1" (which targets the widest displays), each additional stylesheet
+("n2", "n3", and so on) progressively alters the design for narrower and narrower displays
+until it hits "n6" (which targets mobile displays). This approach, while a bit more
+confusing at first, allows the design to fit a much, much wider range of displays, which is
+increasingly important in this age of phones, tablets, "phablets", and hell, probably
+"smart watches" at some point down the road. That said, I'm still experimenting with this way
+of doing stuff, so feel free to email/tweet me your feedback/questions/complaints/etc.
+	
+Demo images* are courtesy of Felicia Simion, an amazing photographer with an
+incredible portfolio over at deviantART:
+
+http://ineedchemicalx.deviantart.com/
 
 * Not included with this download (replaced with generic placeholder images).
 I only have permission to use her work in my own onsite demos so do NOT download
 or use any of her photos without her explicit permission.
 
-As usual, feedback, bug reports, and comments are not only welcome, but strongly
-encouraged :)
 
 AJ
 n33.co @n33co dribbble.com/n33
@@ -26,7 +35,7 @@ n33.co @n33co dribbble.com/n33
 Credits
 
 	Images (Demo Only)
-		regularjane (http://regularjane.deviantart.com/)
+		Felicia Simion (http://ineedchemicalx.deviantart.com/)
 		
 	Icons
 		Font Awesome (http://fortawesome.github.com/Font-Awesome/)
