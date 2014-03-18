@@ -938,11 +938,11 @@
 		position: relative;
 		background: #f08c89;
 		background-image: url('images/header.svg');
-		background-image: url('images/header.svg'), -moz-linear-gradient(75deg, #cc0000 15%, #F2B69D 55%); /* #FF7088 and #F2B69D */
-		background-image: url('images/header.svg'), -webkit-linear-gradient(75deg, #cc0000 15%, #F2B69D 55%);
-		background-image: url('images/header.svg'), -o-linear-gradient(75deg, #cc0000 15%, #F2B69D 55%);
-		background-image: url('images/header.svg'), -ms-linear-gradient(75deg, #cc0000 15%, #F2B69D 55%);
-		background-image: url('images/header.svg'), linear-gradient(75deg, #DB3335 15%, #AB2829 55%);
+		background-image: url('images/header.svg'), -moz-linear-gradient(75deg, #AB2829 15%, #DB3335 55%); /* Place to change the header gradient colors #FF7088 and #F2B69D */
+		background-image: url('images/header.svg'), -webkit-linear-gradient(75deg, #AB2829 15%, #DB3335 55%);
+		background-image: url('images/header.svg'), -o-linear-gradient(75deg, #AB2829 15%, #DB3335 55%);
+		background-image: url('images/header.svg'), -ms-linear-gradient(75deg, #AB2829 15%, #DB3335 55%);
+		background-image: url('images/header.svg'), linear-gradient(75deg, #AB2829 15%, #DB3335 55%);
 	}
 	
 		#header-wrapper:before
