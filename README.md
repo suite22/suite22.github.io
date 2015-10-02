@@ -1,5 +1,9 @@
-Telephasic 1.1 by HTML5 UP
+# Personal Site
+Based on design and code by [AJ](https://github.com/n33).
+
+## Telephasic 1.1 by HTML5 UP
 html5up.net | @n33co
+
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
@@ -17,15 +21,6 @@ confusing at first, allows the design to fit a much, much wider range of display
 increasingly important in this age of phones, tablets, "phablets", and hell, probably
 "smart watches" at some point down the road. That said, I'm still experimenting with this way
 of doing stuff, so feel free to email/tweet me your feedback/questions/complaints/etc.
-	
-Demo images* are courtesy of Felicia Simion, an amazing photographer with an
-incredible portfolio over at deviantART:
-
-http://ineedchemicalx.deviantart.com/
-
-* Not included with this download (replaced with generic placeholder images).
-I only have permission to use her work in my own onsite demos so do NOT download
-or use any of her photos without her explicit permission.
 
 
 AJ
@@ -33,9 +28,6 @@ n33.co @n33co dribbble.com/n33
 
 
 Credits
-
-	Images (Demo Only)
-		Felicia Simion (http://ineedchemicalx.deviantart.com/)
 		
 	Icons
 		Font Awesome (http://fortawesome.github.com/Font-Awesome/)
